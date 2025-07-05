@@ -33,8 +33,7 @@ The goal of this project was to practice structuring, layout design, and improve
 
 - **Email:** matif7058@gmail.com  
 - **LinkedIn:** [Mohmmed Atif](https://www.linkedin.com/in/mohmmed-atif-525390322)  
-- **GitHub:** [Atif4589](https://github.com/Atif4589)  
-- **Phone:** 7703943296
+- **GitHub:** [Atif4589](https://github.com/Atif4589)
 
 ---
 
