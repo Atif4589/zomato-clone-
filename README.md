@@ -25,7 +25,7 @@ The goal of this project was to practice structuring, layout design, and improve
 
 ## 🔗 Live Demo
 
-👉 [View the Live Page](https://your-username.github.io/zomato-clone)
+👉 [View the Live Page](https://zomato-clone-atif4589s-projects.vercel.app/)
 
 ---
 
